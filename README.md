@@ -6,7 +6,7 @@ An addon that can make meshes "unfold" with an armature based on different metho
 For Blender 5.0 (and probably beyond), download "unfold_transition_5_0.py" and install from disk like a normal addon.
 It will appear on the N-panel as " ||| ".
 
-As the original script/addon has been effectively lost, it is provided here for the sake of posterity (listed as "unfold_transition_279.py" and "unfold_transition_280.py") and for anyone that wants to tinker about with it.
+The original script/addon has been provided here for the sake of posterity (listed as "unfold_transition_279.py" and "unfold_transition_280.py") and for anyone that wants to tinker about with it.
 The original code only works with Blender versions PRIOR to changes to how bones/armatures are organized in Blender, which made the script throw exceptions.
 The original code has only been modified to remove the offending parts, and currently works with 5.0; other Blender versions unknown, but previous versions are probably fine, as well as future versions unless changes are once again made to how Blender handles bones and armatures.
 
