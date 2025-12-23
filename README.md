@@ -6,11 +6,9 @@ For Blender 5.0 (and probably beyond), download "unfold_transition_5_0.py" and i
 It will appears on the N-panel as " ||| ".
 
 # Examples:
-Default 3D Cursor Method
-<video src="https://youtu.be/nLqzqLx2naE" width="300 />
+[![Default 3D Cursor Method](https://img.youtube.com/vi/nLqzqLx2naE/0.jpg)](https://www.youtube.com/watch?v=nLqzqLx2naE)
 
-Weight Map Method
-<video src="https://youtu.be/dzCg1h5h04E" width="300" />
+[![Weight Map Method](https://img.youtube.com/vi/dzCg1h5h04E/0.jpg)](https://www.youtube.com/watch?v=dzCg1h5h04E)
 
 As the original script/addon has been effectively lost, it is provided here for the sake of posterity (listed as "unfold_transition_280.py") and for anyone that wants to tinker about with it.
 The original code only works with Blender versions PRIOR to changes to how bones/armatures are organized in Blender, which made the script throw exceptions.
