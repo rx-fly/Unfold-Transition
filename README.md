@@ -7,9 +7,11 @@ It will appears on the N-panel as " ||| ".
 
 # Examples:
 YT: Default 3D Cursor Method
+
 [![Default 3D Cursor Method](https://img.youtube.com/vi/nLqzqLx2naE/0.jpg)](https://www.youtube.com/watch?v=nLqzqLx2naE)
 
 YT: Weight Map Method
+
 [![Weight Map Method](https://img.youtube.com/vi/dzCg1h5h04E/0.jpg)](https://www.youtube.com/watch?v=dzCg1h5h04E)
 
 As the original script/addon has been effectively lost, it is provided here for the sake of posterity (listed as "unfold_transition_280.py") and for anyone that wants to tinker about with it.
