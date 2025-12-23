@@ -19,6 +19,7 @@ The original code only works with Blender versions PRIOR to changes to how bones
 The original code has only been modified to remove the offending parts, and currently works with 5.0; other Blender versions unknown, but previous versions are probably fine, as well as future versions unless changes are once again made to how Blender handles bones and armatures.
 
 Old 2.7x Example of what it does:
+
 [![2.7x](https://img.youtube.com/vi/sUTPvUvZ-gI/0.jpg)](https://www.youtube.com/watch?v=sUTPvUvZ-gI)
 
 The Original Unfold Transition has, effectively, fallen to link rot; here remains what can be reasonably googled:
